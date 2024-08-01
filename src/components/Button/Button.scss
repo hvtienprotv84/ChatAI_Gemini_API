@@ -1,0 +1,23 @@
+.button {
+    background-color: var(--button-background);
+    color: var(--white);
+    padding: 12px 14px;
+    border-radius: 99em;
+    font-size: 14px;
+    width: fit-content;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: 0.2s;
+    white-space: nowrap;
+  
+    &.disabled {
+        filter: brightness(60%);
+      pointer-events: none;
+  
+      &:hover {
+        filter: brightness(90%);
+        transition: 0.2s;
+      }
+    }
+  }
+  
