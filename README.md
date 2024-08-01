@@ -13,6 +13,7 @@
 - Dark Mode/Light Mode
 - Docker
 - Vite.js
+- Responsive Website và Mobile
 
 # Run
 - `npm install`
