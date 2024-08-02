@@ -3,7 +3,7 @@
 </div>  
 <div align="center"> 
     <h1>Chat AI Gemini API</h1>
-</div>
+</div> 
 
 - ReactJS
 - Gemini API
